@@ -1,6 +1,4 @@
-# Título do Projeto
-
-Revisão do javascript
+# Revisão do javascript
 
 ## Começando
 
